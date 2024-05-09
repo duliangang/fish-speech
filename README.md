@@ -23,6 +23,9 @@ This codebase is released under BSD-3-Clause License, and all models are release
 We do not hold any responsibility for any illegal usage of the codebase. Please refer to your local laws about DMCA and other related laws.  
 我们不对代码库的任何非法使用承担任何责任. 请参阅您当地关于 DMCA (数字千年法案) 和其他相关法律法规.
 
+## Online Demo    
+https://fs.firefly.matce.cn/
+Only support Genshin, StarRail, and Blue Archive characters.
 ## Documents / 文档
 - [English](https://speech.fish.audio/en/)
 - [中文](https://speech.fish.audio/)
@@ -47,4 +50,5 @@ We do not hold any responsibility for any illegal usage of the codebase. Please 
   </a>
   <br>
   <a href="https://6block.com/">数据处理服务器由 6Block 提供 (Data Processing sponsor by 6Block)</a>
-</div>
+</div>   
+感谢淮北艾阿网络科技有限公司提供的在线推理Demo推理GPU。
